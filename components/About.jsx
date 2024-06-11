@@ -4,7 +4,7 @@ function About() {
       <h2 style={{ textAlign: "center" }}>About</h2>
       <img
         style={{ borderRadius: "10px" }}
-        src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHz_3NWR0wIzUVpFusgD_Yk_meIEVQNTIfD2ctycyxVY17bJw-fO3MypWVHmZUKJ8SCu-3vuUL-lxN-8G4_OeE1D5_2kcihNOuliS4mOgpAUd4SS10hecqzAP0xJuOkHnKUnWXwR4s&usqp=CAc"
+        src="https://mi-store.uz/wp-content/uploads/2024/03/redmi20note201320global.png"
         alt=""
         width={500}
         height={300}
