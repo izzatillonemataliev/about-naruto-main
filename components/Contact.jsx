@@ -15,7 +15,7 @@ function Contact() {
       </div>
       <img
         style={{ borderRadius: "0" }}
-        src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAxvEY-Qq-uavboZyTgofZaVebIGhPidnWW7crd0FKX3J_IsS_CJrYInRZwLq1ABEjxqJWvqYwZCnU-J7O2rU6Y26xgbv7dINyV1HMaaDb3vuZE1fbISA84jypxggxXHHEkvazo7o&usqp=CAc"
+        src="https://mi-store.uz/wp-content/uploads/2024/03/redmi20note201320global.png"
         alt=""
         height={400}
         width={500}
