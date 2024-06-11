@@ -3,7 +3,7 @@ function About() {
     <div>
       <h2 style={{ textAlign: "center" }}>About</h2>
       <img
-        style={{ borderRadius: "0" }}
+        style={{ borderRadius: "0", textAlign: 'center'}}
         src="https://mi-store.uz/wp-content/uploads/2024/03/redmi20note201320global.png"
         alt=""
         width={400}

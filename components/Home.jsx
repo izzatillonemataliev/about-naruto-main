@@ -34,10 +34,7 @@ function Home() {
           height={400}
           width={500}
         />
-        <p style={{ textAlign: "center" }}>
-          
-        </p>
-
+  
         <Link
           style={{
             border: "1 px solid",
