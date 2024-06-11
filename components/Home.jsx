@@ -5,7 +5,7 @@ function Home() {
     <div>
       <h2 style={{ textAlign: "center" }}>Home</h2>
       <h3 style={{ textAlign: "center", fontWeight: "800", fontSize: "32px" }}>
-        welcome to Naruto world
+       My smartPhone
       </h3>
       <div
         style={{
@@ -29,7 +29,7 @@ function Home() {
       >
         <img
           style={{ borderRadius: "15px" }}
-          src="https://media.distractify.com/brand-img/bwzKFiLe_/0x0/naruto-anime-1691092442445.jpg"
+          src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAxvEY-Qq-uavboZyTgofZaVebIGhPidnWW7crd0FKX3J_IsS_CJrYInRZwLq1ABEjxqJWvqYwZCnU-J7O2rU6Y26xgbv7dINyV1HMaaDb3vuZE1fbISA84jypxggxXHHEkvazo7o"
           alt=""
           height={500}
           width={900}
