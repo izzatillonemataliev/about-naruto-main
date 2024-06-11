@@ -6,7 +6,7 @@ import { Link } from "react-router-dom"
 function Navbar() {
   return (
     <div className="navabar">
-        <h1>My anime web</h1>
+        <h1>My SmartPhone</h1>
         <nav className="nav">
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
