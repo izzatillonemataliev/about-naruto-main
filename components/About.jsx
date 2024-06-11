@@ -6,7 +6,7 @@ function About() {
         style={{ borderRadius: "0" }}
         src="https://mi-store.uz/wp-content/uploads/2024/03/redmi20note201320global.png"
         alt=""
-        width={300}
+        width={400}
         height={500}
       />
       <p style={{ textAlign: "center", fontSize: "24px" }}></p>
